@@ -1,0 +1,37 @@
+/* creditos */
+
+
+#pagination-digg a{
+   border:solid 1px #c6baa4;
+   margin-right:2px;
+}
+#pagination-digg .previous-off, #pagination-digg .next-off {
+   border:solid 1px #c6baa4;
+   color:#222222;
+   
+   
+   font-weight:bold;
+   margin-right:2px;
+   padding:3px 4px;
+}
+#pagination-digg .next a, #pagination-digg .previous a {
+   font-weight:bold;
+}
+#pagination-digg .active{
+   background:#c6baa4;
+   color:#FFFFFF;
+   font-weight:bold;
+   
+   
+   padding:4px 6px;
+}
+#pagination-digg a:link, #pagination-digg a:visited {
+   color:#222222;
+   
+   padding:0px 6px;
+   text-decoration:none;
+}
+#pagination-digg a:hover{
+   border:solid 1px #222222
+}
+
